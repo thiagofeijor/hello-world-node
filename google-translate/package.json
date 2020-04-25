@@ -1,0 +1,10 @@
+{
+  "name": "google-translate",
+  "version": "1.0.0",
+  "description": "",
+  "author": "feijor",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^5.3.0"
+  }
+}
